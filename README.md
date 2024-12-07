@@ -12,7 +12,7 @@
 ## Installation
 
 ```
-$ git clone https://github.com/Brosck/Farllen.git
+$ git clone https://github.com/brosck/Farllen.git
 $ cd Farllen
 $ make
 $ ./farllen <INTERNAL IP> <INTERNAL PORT> <BIND PORT>
