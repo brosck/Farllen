@@ -125,7 +125,7 @@ void banner() {
  | | | (_| | |  | | |  __/ | | |
  |_|  \__,_|_|  |_|_|\___|_| |_|
                                 
-   [%sTool developed by MrEmpy%s]
+   [%sTool developed by Brosck%s]
          [%sversion %s%s] 
 
 )EOF", AC_CYAN, AC_NORMAL, AC_CYAN, AC_NORMAL, VERSION, AC_CYAN);
